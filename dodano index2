@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta author="moje_ime">
+        <title>moja prva stranica</title>
+
+    </head>
+<body>
+    <h1>Uvod u HTML</h1>
+    <p title="neki text"><strong>HTML</strong> je <i>jezik za obilježavanje</i>  koji koristimo za izradu web stranica. <br>
+
+        Njime definiramo strukturu i sadržaj web stranica.
+    </p>
+    
